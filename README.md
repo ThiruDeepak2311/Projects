@@ -12,6 +12,12 @@ This project focuses on analyzing and predicting the performance of cricketer **
 1. **Performance Visualization**:  
    - Visualized Kohli's performance metrics like total runs, centuries, strike rates, and averages using **Power BI dashboards**.  
    - The dashboards provides various insights across the formats as below :
+
+     ![Vk_odi](https://github.com/user-attachments/assets/27ecc48f-f1a6-4322-a929-57907e52e94b)
+
+     ![Vk_t20](https://github.com/user-attachments/assets/639ab495-c35f-483e-bad4-d859b7dfbe16)
+
+     ![Vk_test](https://github.com/user-attachments/assets/dbe50c6f-66df-4804-9de2-577def715dce)
   
 
 2. **Predictive Modeling**:  
