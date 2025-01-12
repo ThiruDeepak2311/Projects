@@ -1,5 +1,4 @@
-# Virat Kohli Performance Analysis and Prediction  
-*(Data Visualization & Data Analysis)*  
+# Virat Kohli Performance Analysis and Prediction   
 
 ## Overview  
 This project focuses on analyzing and predicting the performance of cricketer **Virat Kohli**. It includes:  
