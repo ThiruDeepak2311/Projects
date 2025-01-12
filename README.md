@@ -27,10 +27,10 @@ This project focuses on analyzing and predicting the performance of cricketer **
 
 ## Technologies Used :
 
-a) Machine Learning: Random Forest, Neural Networks
-b) Data Visualization: Power BI
-c) Web Development: Flask
-d) Containerization: Docker
+- Machine Learning: Random Forest, Neural Networks
+- Data Visualization: Power BI
+- Web Development: Flask
+- Containerization: Docker
 
 ---
 
